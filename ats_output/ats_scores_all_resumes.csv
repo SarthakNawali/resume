@@ -1,0 +1,121 @@
+rank,file_name,page_count,has_tables,keyword_score,semantic_score,cosine_sim,skills_score,experience_score,resume_years,formatting_score,ats_score,grade,matched_keywords,matched_skills,missing_skills,word_count
+1,10265057.pdf,1,False,26.0,22.89,0.7631,9.0,15.0,12.0,5,77.89,Good,52,9,['data analysis'],702
+2,22450718.pdf,2,False,16.0,13.63,0.4542,0.0,15.0,5.0,5,49.63,Needs Work,32,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",991
+3,46260230.pdf,3,False,12.0,14.51,0.4838,0.0,15.0,22.0,5,46.51,Needs Work,24,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1323
+4,19796840.pdf,3,False,15.5,9.88,0.3295,1.0,15.0,10.0,5,46.38,Needs Work,31,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",2035
+5,27295996.pdf,2,False,11.0,12.22,0.4075,2.0,15.0,11.0,5,45.22,Needs Work,22,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",919
+6,15651486.pdf,2,False,9.5,13.66,0.4552,2.0,15.0,11.0,5,45.16,Needs Work,19,2,"['pcb', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",884
+7,11584809.pdf,2,False,12.0,12.56,0.4185,0.0,15.0,12.0,5,44.56,Needs Work,24,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",657
+8,17111768.pdf,3,False,11.5,11.81,0.3938,1.0,15.0,16.0,5,44.31,Needs Work,23,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1397
+9,10247517.pdf,2,False,12.5,10.78,0.3594,1.0,15.0,13.0,5,44.28,Needs Work,25,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",883
+10,18067556.pdf,4,False,12.0,8.08,0.2694,4.0,15.0,14.0,5,44.08,Needs Work,24,4,"['pcb', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",2668
+11,26801767.pdf,3,False,10.0,12.7,0.4234,1.0,15.0,30.0,5,43.7,Needs Work,20,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",1222
+12,20674668.pdf,2,False,10.5,10.98,0.3659,2.0,15.0,11.0,5,43.48,Needs Work,21,2,"['pcb', 'rf', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",787
+13,11580408.pdf,2,False,9.5,12.87,0.429,1.0,15.0,56.0,5,43.37,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",791
+14,25959103.pdf,2,False,10.0,12.26,0.4086,1.0,15.0,2025.0,5,43.26,Needs Work,20,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",692
+15,30223363.pdf,2,False,11.5,9.6,0.3201,2.0,15.0,12.0,5,43.1,Needs Work,23,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",1433
+16,13405733.pdf,2,False,10.0,11.08,0.3693,2.0,15.0,14.0,5,43.08,Needs Work,20,2,"['pcb', 'rf', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",791
+17,28126340.pdf,2,False,11.0,11.01,0.3669,1.0,15.0,9.0,5,43.01,Needs Work,22,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1255
+18,51363762.pdf,3,False,11.5,11.41,0.3804,0.0,15.0,97.0,5,42.91,Needs Work,23,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1047
+19,20879311.pdf,2,False,12.5,9.1,0.3034,1.0,15.0,15.0,5,42.6,Needs Work,25,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1025
+20,11957080.pdf,2,False,10.0,10.52,0.3507,2.0,15.0,26.0,5,42.52,Needs Work,20,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",1234
+21,89413122.pdf,2,False,9.5,12.01,0.4002,1.0,15.0,16.0,5,42.51,Needs Work,19,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",614
+22,18159866.pdf,3,False,12.0,10.29,0.343,0.0,15.0,22.0,5,42.29,Needs Work,24,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1348
+23,21780877.pdf,2,False,9.0,13.27,0.4423,0.0,15.0,47.0,5,42.27,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",802
+24,79541391.pdf,2,False,8.5,12.75,0.4249,1.0,15.0,15.0,5,42.25,Needs Work,17,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1765
+25,37242217.pdf,2,False,10.0,11.23,0.3742,1.0,15.0,10.0,5,42.23,Needs Work,20,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",919
+26,20001721.pdf,2,False,8.0,13.14,0.4381,1.0,15.0,12.0,5,42.14,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",463
+27,24913648.pdf,2,False,9.0,13.1,0.4368,0.0,15.0,14.0,5,42.1,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",902
+28,52246737.pdf,2,False,8.5,13.54,0.4514,0.0,15.0,13.0,5,42.04,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",957
+29,18301617.pdf,2,False,9.5,11.54,0.3846,1.0,15.0,26.0,5,42.04,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",655
+30,90867631.pdf,3,False,11.5,9.41,0.3136,1.0,15.0,14.0,5,41.91,Needs Work,23,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1639
+31,10840430.pdf,2,False,8.0,13.86,0.462,0.0,15.0,12.0,5,41.86,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",911
+32,51639418.pdf,2,False,8.0,12.54,0.4181,1.0,15.0,16.0,5,41.54,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",655
+33,19201175.pdf,2,False,9.0,12.53,0.4178,0.0,15.0,34.0,5,41.53,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",745
+34,57002858.pdf,2,False,9.0,11.51,0.3838,1.0,15.0,19.0,5,41.51,Needs Work,18,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",691
+35,31243710.pdf,2,False,9.5,10.96,0.3655,1.0,15.0,14.0,5,41.46,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1051
+36,12045067.pdf,2,False,8.5,12.77,0.4256,0.0,15.0,17.0,5,41.27,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1205
+37,20408458.pdf,2,False,8.0,13.25,0.4417,0.0,15.0,24.0,5,41.25,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1297
+38,36434348.pdf,2,False,8.0,11.77,0.3923,1.0,15.0,10.0,5,40.77,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",734
+39,28672970.pdf,2,False,10.5,10.27,0.3424,0.0,15.0,20.0,5,40.77,Needs Work,21,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",846
+40,23864648.pdf,2,False,11.0,9.64,0.3213,0.0,15.0,20.0,5,40.64,Needs Work,22,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",785
+41,29975124.pdf,2,False,8.0,11.41,0.3805,1.0,15.0,20.0,5,40.41,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",818
+42,27536013.pdf,2,False,9.5,8.63,0.2876,2.0,15.0,10.0,5,40.13,Needs Work,19,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",780
+43,70089206.pdf,2,False,7.0,12.09,0.4031,1.0,15.0,20.0,5,40.09,Needs Work,14,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",875
+44,40018190.pdf,2,False,8.0,11.99,0.3997,0.0,15.0,12.0,5,39.99,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",394
+45,52618188.pdf,2,False,9.5,10.31,0.3438,0.0,15.0,12.0,5,39.81,Needs Work,19,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1007
+46,10641230.pdf,1,False,7.5,12.3,0.4101,0.0,15.0,666.0,5,39.8,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",734
+47,14789139.pdf,2,False,10.0,8.74,0.2912,1.0,15.0,13.0,5,39.74,Needs Work,20,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1164
+48,27770859.pdf,2,False,9.0,10.67,0.3555,0.0,15.0,38.0,5,39.67,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",741
+49,25990239.pdf,2,False,8.0,10.4,0.3468,1.0,15.0,14.0,5,39.4,Needs Work,16,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",677
+50,29051656.pdf,2,False,8.5,8.7,0.2901,2.0,15.0,20.0,5,39.2,Needs Work,17,2,"['pcb', 'rf', 'python', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",956
+51,28697203.pdf,2,False,9.0,10.13,0.3376,0.0,15.0,7.0,5,39.13,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",700
+52,81761658.pdf,2,False,8.0,11.08,0.3693,0.0,15.0,13.0,5,39.08,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",877
+53,16533554.pdf,2,False,8.5,10.37,0.3457,0.0,15.0,30.0,5,38.87,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",697
+54,10553553.pdf,2,False,8.5,9.37,0.3123,1.0,15.0,13.0,5,38.87,Needs Work,17,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",653
+55,83816738.pdf,2,False,10.5,13.17,0.439,1.0,9.0,3.0,5,38.67,Needs Work,21,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1227
+56,10839851.pdf,2,False,6.5,12.12,0.4038,0.0,15.0,8.0,5,38.62,Needs Work,13,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",556
+57,15791766.pdf,2,False,8.0,10.61,0.3538,0.0,15.0,9.0,5,38.61,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",612
+58,12763627.pdf,2,False,8.0,9.42,0.3139,1.0,15.0,11.0,5,38.42,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",931
+59,10089434.pdf,2,False,9.5,7.63,0.2543,1.0,15.0,19.0,5,38.13,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1050
+60,91697974.pdf,2,False,8.5,9.39,0.3129,0.0,15.0,5.0,5,37.89,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",732
+61,21283365.pdf,2,False,7.0,10.87,0.3623,0.0,15.0,21.0,5,37.87,Needs Work,14,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",883
+62,12635195.pdf,1,False,5.5,10.37,0.3455,2.0,15.0,27.0,5,37.87,Needs Work,11,2,"['pcb', 'rf', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",380
+63,36856210.pdf,2,False,8.0,9.76,0.3253,0.0,15.0,15.0,5,37.76,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",617
+64,27058381.pdf,2,False,9.5,8.23,0.2745,0.0,15.0,21.0,5,37.73,Needs Work,19,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1716
+65,16899268.pdf,1,False,6.0,10.67,0.3555,1.0,15.0,20.0,5,37.67,Needs Work,12,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",569
+66,33381211.pdf,3,False,8.0,8.63,0.2876,1.0,15.0,20.0,5,37.63,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1501
+67,38753827.pdf,3,False,9.5,7.97,0.2657,0.0,15.0,17.0,5,37.47,Needs Work,19,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1281
+68,24020470.pdf,2,False,7.0,10.31,0.3437,0.0,15.0,14.0,5,37.31,Needs Work,14,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1120
+69,25207620.pdf,2,False,9.0,11.19,0.3728,0.0,12.0,4.0,5,37.19,Needs Work,18,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",860
+70,31111279.pdf,2,False,7.0,9.1,0.3032,1.0,15.0,18.0,5,37.1,Needs Work,14,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1140
+71,15297298.pdf,2,False,6.5,10.04,0.3348,0.0,15.0,12.0,5,36.54,Needs Work,13,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",722
+72,24889109.pdf,1,False,9.5,12.89,0.4296,0.0,9.0,3.0,5,36.39,Needs Work,19,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",628
+73,15802627.pdf,2,False,8.0,8.38,0.2794,0.0,15.0,17.0,5,36.38,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1081
+74,13836471.pdf,2,False,6.5,8.51,0.2838,1.0,15.0,19.0,5,36.01,Needs Work,13,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",653
+75,13477922.pdf,2,False,5.5,10.51,0.3504,0.0,15.0,11.0,5,36.01,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",721
+76,66832845.pdf,2,False,4.5,11.09,0.3696,0.0,15.0,18.0,5,35.59,Needs Work,9,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",708
+77,15118506.pdf,2,False,6.5,8.62,0.2872,0.0,15.0,14.0,5,35.12,Needs Work,13,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",723
+78,35325329.pdf,2,False,7.5,6.58,0.2193,0.0,15.0,15.0,5,34.08,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",871
+79,39718499.pdf,1,False,5.5,7.78,0.2595,0.0,15.0,28.0,5,33.28,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",319
+80,26746496.pdf,2,False,9.5,11.75,0.3918,1.0,6.0,2.0,5,33.25,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1220
+81,16186411.pdf,2,False,9.5,11.61,0.3869,1.0,6.0,2.0,5,33.11,Needs Work,19,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1312
+82,64017585.pdf,1,False,5.5,7.59,0.2531,0.0,15.0,9.0,5,33.09,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",415
+83,12334140.pdf,3,False,7.5,5.25,0.1748,0.0,15.0,20.0,5,32.75,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",2044
+84,25857360.pdf,2,False,4.0,8.51,0.2836,0.0,15.0,14.0,5,32.51,Needs Work,8,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",823
+85,29075857.pdf,2,False,12.0,9.96,0.3321,2.0,3.0,1.0,5,31.96,Needs Work,24,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",1248
+86,24230851.pdf,2,False,5.5,5.97,0.1991,0.0,15.0,11.0,5,31.47,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",651
+87,32959732.pdf,4,False,13.0,10.6,0.3533,1.0,0.0,0.0,5,29.6,Needs Work,26,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1644
+88,68460556.pdf,1,False,3.5,8.37,0.2791,0.0,12.0,4.0,5,28.87,Needs Work,7,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",326
+89,27372171.pdf,3,False,11.5,12.12,0.4038,0.0,0.0,0.0,5,28.62,Needs Work,23,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1572
+90,22776912.pdf,2,False,10.5,11.63,0.3876,1.0,0.0,0.0,5,28.13,Needs Work,21,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1170
+91,28897981.pdf,2,False,10.0,13.08,0.4359,0.0,0.0,0.0,5,28.08,Needs Work,20,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",899
+92,26480367.pdf,2,False,9.0,12.83,0.4278,1.0,0.0,0.0,5,27.83,Needs Work,18,1,"['pcb', 'rf', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",671
+93,17641670.pdf,3,False,10.5,12.24,0.4081,0.0,0.0,0.0,5,27.74,Needs Work,21,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1846
+94,91635250.pdf,2,False,11.0,11.38,0.3794,0.0,0.0,0.0,5,27.38,Needs Work,22,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",944
+95,18187364.pdf,3,False,11.5,9.67,0.3225,1.0,0.0,0.0,5,27.17,Needs Work,23,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1177
+96,13385306.pdf,2,False,8.0,11.55,0.3849,1.0,0.0,0.0,5,25.55,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",714
+97,25905275.pdf,2,False,8.5,11.3,0.3768,0.0,0.0,0.0,5,24.8,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",966
+98,39413067.pdf,2,False,8.0,10.79,0.3597,1.0,0.0,0.0,5,24.79,Needs Work,16,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",682
+99,27485716.pdf,2,False,7.5,11.57,0.3856,0.0,0.0,0.0,5,24.07,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",739
+100,41344156.pdf,2,False,9.0,8.03,0.2678,2.0,0.0,0.0,5,24.03,Needs Work,18,2,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",913
+101,17688766.pdf,2,False,7.0,10.88,0.3627,1.0,0.0,0.0,5,23.88,Needs Work,14,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",579
+102,17681064.pdf,2,False,6.5,12.32,0.4107,0.0,0.0,0.0,5,23.82,Needs Work,13,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",648
+103,28035460.pdf,2,False,7.5,10.31,0.3435,1.0,0.0,0.0,5,23.81,Needs Work,15,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",803
+104,23666211.pdf,2,False,7.0,11.55,0.3849,0.0,0.0,0.0,5,23.55,Needs Work,14,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",745
+105,91121135.pdf,2,False,8.0,10.31,0.3437,0.0,0.0,0.0,5,23.31,Needs Work,16,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",821
+106,24038620.pdf,2,False,7.5,10.7,0.3565,0.0,0.0,0.0,5,23.2,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",907
+107,33241454.pdf,1,False,6.5,11.69,0.3896,0.0,0.0,0.0,5,23.19,Needs Work,13,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",540
+108,20237244.pdf,1,False,5.5,12.68,0.4227,0.0,0.0,0.0,5,23.18,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",390
+109,19850482.pdf,2,False,7.5,10.22,0.3407,0.0,0.0,0.0,5,22.72,Needs Work,15,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",984
+110,23527321.pdf,2,False,8.5,8.96,0.2986,0.0,0.0,0.0,5,22.46,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",809
+111,18176523.pdf,2,False,7.5,8.89,0.2965,1.0,0.0,0.0,5,22.39,Needs Work,15,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",601
+112,26768723.pdf,2,False,5.0,10.57,0.3525,0.0,0.0,0.0,5,20.57,Needs Work,10,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",695
+113,92069209.pdf,2,False,8.5,6.94,0.2312,0.0,0.0,0.0,5,20.44,Needs Work,17,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",705
+114,37764298.pdf,2,False,6.5,7.47,0.249,1.0,0.0,0.0,5,19.97,Needs Work,13,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",866
+115,48037995.pdf,2,False,10.0,3.89,0.1298,1.0,0.0,0.0,5,19.89,Needs Work,20,1,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'matlab', 'labview', 'spice']",737
+116,20824105.pdf,3,False,5.5,6.93,0.2311,1.0,0.0,0.0,5,18.43,Needs Work,11,1,"['pcb', 'rf', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",913
+117,18752129.pdf,2,False,5.5,7.03,0.2342,0.0,0.0,0.0,5,17.53,Needs Work,11,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",1324
+118,20024870.pdf,2,False,5.0,6.37,0.2122,1.0,0.0,0.0,5,17.37,Needs Work,10,1,"['pcb', 'rf', 'python', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",391
+119,17987433.pdf,2,False,5.0,6.84,0.2279,0.0,0.0,0.0,5,16.84,Needs Work,10,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",745
+120,24083609.pdf,1,False,4.5,8.35,0.2784,0.0,0.0,0.0,3,15.85,Needs Work,9,0,"['pcb', 'rf', 'python', 'sql', 'awr', 'ansoft', 'data analysis', 'matlab', 'labview', 'spice']",237

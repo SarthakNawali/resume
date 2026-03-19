@@ -1,0 +1,26 @@
+IT ENGINEER ATS - SUPERVISED LEARNING REPORT
+======================================================================
+Training Date: 2026-03-19 13:24:52
+
+TRAINING DATA SUMMARY:
+  Total Resumes: 3
+  Avg Skills Found: 4.0
+  Avg Years Experience: 0.0
+
+  Rejection Distribution:
+    0 rejection(s): 3 resumes (100.0%)
+
+MODEL PERFORMANCE:
+  Train Accuracy: 1.0000
+  Test Accuracy: 1.0000
+
+TOP PREDICTIVE FEATURES:
+  total_skills_found: 0.0000
+  years_exp: 0.0000
+  word_count: 0.0000
+  Languages: 0.0000
+  Databases: 0.0000
+  Cloud & DevOps: 0.0000
+  Frameworks: 0.0000
+  Data & ML: 0.0000
+  Architecture: 0.0000
